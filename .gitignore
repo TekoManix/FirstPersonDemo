@@ -1,0 +1,13 @@
+.idea/
+Library/
+Logs/
+UserSettings/
+obj/
+Temp/
+Build/
+Builds/
+
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+FirstPersonDemo.sln
+FirstPersonDemo.sln.DotSettings.user
